@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 604B-DE14
+
+ Directory of C:\Users\Hemant\Desktop\myfolder
+
+04-02-2020  23:07    <DIR>          .
+04-02-2020  23:07    <DIR>          ..
+04-02-2020  23:07                 0 asd.txt
+04-02-2020  22:42                 0 index.html
+04-02-2020  22:43                 8 test1.txt
+               3 File(s)              8 bytes
+               2 Dir(s)  163,452,993,536 bytes free
